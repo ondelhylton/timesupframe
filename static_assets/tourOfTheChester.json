@@ -1,0 +1,466 @@
+{
+	"nav_icon": "chester_icon.png",
+	"firstPhotoId": "112379",
+	"firstPhotoRotation": 150,
+	"soundEffects": {
+		"navButton": {
+			"onEnter": {
+				"uri": "switch-flip.wav",
+				"attributionUri": "https://www.freesound.org/people/ianstargem/sounds/278205/"
+			},
+			"onClick": {
+				"uri": "menu-click.wav",
+				"attributionUri": "https://www.freesound.org/people/fins/sounds/146721/"
+			}
+		},
+		"infoButton": {
+			"onEnter": {
+				"uri": "switch-flip.wav",
+				"attributionUri": "https://www.freesound.org/people/ianstargem/sounds/278205/"
+			}
+		},
+		"ambient": {
+			"uri": "cafe.mp3",
+			"attributionUri": "https://www.freesound.org/people/PapercutterJohn/sounds/322031/",
+			"loop": true,
+			"volume": 0.8
+		}
+	},
+
+	"photos": {
+		"112362": {
+			"rotationOffset": 180,
+			"uri": "the-chester--v112362.prefilter.jpg",
+			"tooltips": [
+				{
+					"text": "Manhattan Aerial View",
+					"rotationY": -45,
+					"linkedPhotoId": "112379"
+				},
+
+				{
+					"type": "panelimage",
+					"rotationY": 2,
+					"width": 2.0,
+					"height": 2.0,
+					"source": "shakespeare.jpg",
+					"text": "Shakespeare in the Park is held annually at the Delacorte Theater"
+				},
+
+				{
+					"type": "panelimage",
+					"rotationY": 160,
+					"width": 1.28,
+					"height": 1.28,
+					"source": "belvedere.jpg",
+					"text": "A top-to-bottom renovation of the castle was completed in 2019",
+					"attribution": "Photo by Will Shenton"
+				},
+				{
+					"type": "textblock",
+					"title": "Belvedere Castle Takes Official Weather Measurements for NYC. ",
+					"text": " Since 1919, the National Weather Service has taken measurements of New York's weather from the castle's tower with the aid of scientific instruments that measure wind speed and direction. In a fenced-in compound just south of the castle, other weather data such as rainfall are recorded and sent to the weather service's forecast office at Brookhaven National Library on Long Island. The building finished a renovation in 2019",
+					"attribution": "360 Photos",
+					"rotationY": -130,
+					"translate": [ -20, -0.5, -0.5 ],
+					"width": 0.8,
+					"height": 0.8
+				}
+			]
+		},
+
+		"112394": {
+			"rotationOffset": -60,
+			"uri": "the-chester--v112394.prefilter.jpg",
+			"tooltips": [
+				{
+					"text": "Manhattan Aerial View",
+					"rotationY": -45,
+					"linkedPhotoId": "112379"
+				},
+				{
+					"text": "Times Square",
+					"rotationY": 24,
+					"linkedPhotoId": "112399"
+				},
+
+				{
+					"type": "panelimage",
+					"rotationY": 94,
+					"width": 2.0,
+					"height": 2.0,
+					"source": "tkts.jpg",
+					"text": "The TKTS booth offers discount tickets to Broadway shows below the steps"
+				},
+
+				{
+					"text": "Central Park",
+					"rotationY": 178,
+					"linkedPhotoId": "112360"
+				},
+
+				{
+					"type": "textblock",
+					"title": "Flood Risk",
+					"text": "New York City's average elevation is just 33 feet (10 m) above sea level.",
+					"attribution": "360 Photos",
+					"rotationY": 4,
+					"translate": [ -20, -0.5, -0.5 ],
+					"width": 0.8,
+					"height": 0.8
+				}
+			]
+		},
+
+		"112358": {
+			"rotationOffset": -16,
+			"uri": "the-chester--v112358.prefilter.jpg",
+			"tooltips": [
+				{
+					"text": "Manhattan Aerial View",
+					"rotationY": 20.929,
+					"linkedPhotoId": "112379"
+				}
+			]
+		},
+
+		"112380": {
+			"rotationOffset": -16,
+			"uri": "the-chester--v112380.prefilter.jpg",
+			"tooltips": [
+				{
+					"text": "Manhattan Aerial View",
+					"rotationY": 120.929,
+					"linkedPhotoId": "112379"
+				},
+				{
+					"text": "Brooklyn Bridge Park",
+					"rotationY": 34,
+					"linkedPhotoId": "112393"
+				},
+
+				{
+					"text": "Brooklyn Bridge",
+					"rotationY": 80.348,
+					"linkedPhotoId": "112371"
+				},
+
+				{
+					"type": "textblock",
+					"title": "Sea Level Rise",
+					"text": "By 2100, scientists project sea levels 18 to 50 inches higher than today along New York's coastlines and estuaries, though a rise as high as 75 inches could occur.",
+					"attribution": "360 Photos",
+					"rotationY": 4,
+					"translate": [ -20, -0.5, -0.5 ],
+					"width": 0.8,
+					"height": 0.8
+				}
+			]
+		},
+
+		"112379": {
+			"rotationOffset": -26,
+			"uri": "the-chester--v112379.prefilter.jpg",
+			"tooltips": [
+				{
+					"text": "Hudson River Park - Pier 84",
+					"rotationY": -8,
+					"linkedPhotoId": "112355"
+				},
+				{
+					"text": "Times Square",
+					"rotationY": -24,
+					"linkedPhotoId": "112394"
+				},
+				{
+					"type": "panelimage",
+					"rotationY": -155,
+					"width": 1.0,
+					"height": 1.0,
+					"source": "old-fashioned.png",
+					"text": "In June 2017, President Donald Trump announced Thursday that he would pull the US out of the landmark Paris Agreement on climate change, ",
+					"attribution": "Photo by Will Shenton",
+					"attributionUri": "https://commons.wikimedia.org/wiki/File:The_Young_Laddie_Cocktail.jpg"
+				},
+
+				{
+					"text": "North Brooklyn Waterfront",
+					"rotationY": -97,
+					"linkedPhotoId": "112393"
+				},
+
+				{
+					"type": "textblock",
+					"title": "Millions of New Yorkers live and work on the coastline",
+					"text": "New York's coastal marine counties are home to more than half the state's 21 million people",
+					"attribution": "360 Photos",
+					"rotationY": -70,
+					"translate": [ -20, -0.5, -0.5 ],
+					"width": 0.8,
+					"height": 0.8
+				},
+
+				{
+					"type": "textblock",
+					"title": "Sea Level Rise",
+					"text": "By 2100, scientists project sea levels 18 to 50 inches higher than today along New York's coastlines and estuaries, though a rise as high as 75 inches could occur.",
+					"attribution": "360 Photos",
+					"rotationY": 177,
+					"translate": [ -20, -0.5, -0.5 ],
+					"width": 0.8,
+					"height": 0.8
+				}
+			]
+		},
+
+		"112352": {
+			"rotationOffset": -170,
+			"uri": "the-chester--v112352.prefilter.jpg",
+			"tooltips": [
+				{
+					"text": "Manhattan Aerial View",
+					"rotationY": -5,
+					"linkedPhotoId": "112379"
+				},
+
+				{
+					"text": "The High Line",
+					"rotationY": -50,
+					"linkedPhotoId": "112351"
+				},
+
+				{
+					"text": "Hudson River Park Pier 84",
+					"rotationY": 177.392,
+					"linkedPhotoId": "112355"
+				},
+				{
+					"type": "panelimage",
+					"rotationY": 161.392,
+					"width": 1.28,
+					"height": 0.85,
+					"source": "shed.jpg",
+					"text": "The Shed is a cultural center in Hudson Yards, Manhattan, New York City. Opened on April 5, 2019, the Shed commissions, produces, and presents a wide range of activities in performing arts, visual arts, and pop culture.",
+					"attribution": "Photo by yutacar on upslash",
+					"attributionUri": "https://unsplash.com/photos/JKMnm3CIncw"
+				}
+			]
+		},
+
+		"112355": {
+			"rotationOffset": -30,
+			"uri": "the-chester--v112355.prefilter.jpg",
+			"tooltips": [
+				{
+					"text": "Manhattan Aerial View",
+					"rotationY": -151.392,
+					"linkedPhotoId": "112379"
+				},
+
+				{
+					"text": "Hudson Yards",
+					"rotationY": 110.441,
+					"linkedPhotoId": "112352"
+				},
+
+				{
+					"type": "video",
+					"rotationY": 17.347,
+					"width": 2.56,
+					"height": 1.24,
+					"source": "Sandy.webm",
+					"muted": true
+				},
+				{
+					"type": "panelimage",
+					"rotationY": 66,
+					"width": 1.28,
+					"height": 0.85,
+					"source": "Deck84.jpg",
+					"text": "Hook'd on the Hudson  is now open for our first season on Pier 84 in Hudson River Park!  Sporting a waterfront terrace under a canopy of trees and bistro lights, we’re a welcoming reprieve from bustling midtown Manhattan - especially at dusk.  Wait until you see the sunset!  "
+				},
+
+				{
+					"type": "panelimage",
+					"rotationY": -50,
+					"width": 1.28,
+					"height": 0.85,
+					"source": "intrepid.jpg",
+					"text": "USS Intrepid (CV/CVA/CVS-11), also known as The Fighting 'I', is one of 24 Essex-class aircraft carriers built during World War II for the United States Navy. "
+				}
+			]
+		},
+		"112392": {
+			"rotationOffset": 80,
+			"uri": "the-chester--v112392.prefilter.jpg",
+			"tooltips": [
+				{
+					"text": "Manhattan Aerial View",
+					"rotationY": -112,
+					"linkedPhotoId": "112379"
+				},
+				{
+					"text": "Brooklyn Bridge",
+					"rotationY": 175.33789063,
+					"linkedPhotoId": "112371"
+				},
+				{
+					"text": "Brooklyn Bridge Park",
+					"rotationY": 140.2,
+					"linkedPhotoId": "112393"
+				}
+			]
+		},
+		"112399": {
+			"rotationOffset": 110,
+			"uri": "the-chester--v112399.prefilter.jpg",
+			"tooltips": [
+				{
+					"text": "Manhattan Aerial View",
+					"rotationY": 30.929,
+					"linkedPhotoId": "112379"
+				},
+
+				{
+					"text": "Times Square-Duffy Square",
+					"rotationY": -10,
+					"linkedPhotoId": "112394"
+				},
+
+				{
+					"type": "panelimage",
+					"rotationY": -83,
+					"width": 2.0,
+					"height": 2.0,
+					"source": "timessquare.jpg",
+					"text": "Times Square is approximately 45 feet above sea level. If all the ice caps melted, the oceans would rise about 230 feet."
+				},
+
+				{
+					"type": "panelimage",
+					"rotationY": -133,
+					"width": 2.0,
+					"height": 2.0,
+					"source": "floodzone.jpg",
+					"text": "Sea-level rise is locked in for centuries, or even millennia, by heat-trapping greenhouse gases already in the atmosphere."
+				}
+			]
+		},
+
+		"112360": {
+			"rotationOffset": 98,
+			"uri": "the-chester--v112360.prefilter.jpg",
+			"tooltips": [
+				{
+					"text": "Manhattan Aerial View",
+					"rotationY": 150.441,
+					"linkedPhotoId": "112379"
+				},
+
+				{
+					"type": "textblock",
+					"title": "Central Park is about 60 feet above sea level",
+					"text": "Relatively safe real estate, and all its bodies of water are manmade.",
+					"attribution": "360 Photos",
+					"rotationY": 67,
+					"translate": [ -20, -0.5, -0.5 ],
+					"width": 0.8,
+					"height": 0.8
+				},
+
+				{
+					"text": "Belvedere Castle",
+					"rotationY": -6.929,
+					"linkedPhotoId": "112362"
+				}
+			]
+		},
+
+		"112371": {
+			"rotationOffset": 70,
+			"uri": "the-chester--v112371.prefilter.jpg",
+			"tooltips": [
+				{
+					"text": "Manhattan Aerial View",
+					"rotationY": 27.929,
+					"linkedPhotoId": "112379"
+				},
+				{
+					"text": "Brooklyn Bridge Park",
+					"rotationY": -92.02148438,
+					"linkedPhotoId": "112393"
+				},
+
+				{
+					"text": "East River Waterfront Esplanade",
+					"rotationY": -165.02148438,
+					"linkedPhotoId": "112392"
+				},
+				{
+					"type": "panelimage",
+					"rotationY": -50,
+					"width": 1.28,
+					"height": 0.85,
+					"source": "trivia.png",
+					"text": "What year was the Broklyn Bridge built? "
+				},
+				{
+					"type": "panelimage",
+					"rotationY": -140,
+					"width": 1.28,
+					"height": 0.85,
+					"source": "trivia.png",
+					"text": "How many feet of sea leel rise is expected by 2075? "
+				}
+			]
+		},
+		"112393": {
+			"rotationOffset": 140,
+			"uri": "the-chester--v112393.prefilter.jpg",
+			"tooltips": [
+				{
+					"text": "Manhattan Aerial View",
+					"rotationY": 20.929,
+					"linkedPhotoId": "112379"
+				},
+				{
+					"text": "Brooklyn Bridge",
+					"rotationY": -29.348,
+					"linkedPhotoId": "112371"
+				},
+				{
+					"text": "East River Esplanade",
+					"rotationY": 120.929,
+					"linkedPhotoId": "112392"
+				},
+				{
+					"text": "Financial District Heliport",
+					"rotationY": 148.929,
+					"linkedPhotoId": "112380"
+				}
+			]
+		},
+
+		"112351": {
+			"rotationOffset": -80,
+			"uri": "the-chester--v112351.prefilter.jpg",
+			"tooltips": [
+				{
+					"text": "Manhattan Aerial View",
+					"rotationY": 100.929,
+					"linkedPhotoId": "112379"
+				},
+				{
+					"text": "Hudson Yards",
+					"rotationY": -102.793,
+					"linkedPhotoId": "112352"
+				},
+				{
+					"text": "Hudson River Park West Village",
+					"rotationY": -8,
+					"linkedPhotoId": "112358"
+				}
+			]
+		}
+	}
+}
